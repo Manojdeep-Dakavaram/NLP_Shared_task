@@ -6,6 +6,5 @@
   3) Sri Venkatesha Mani Narayanan - srna7983
  
 ### Dataset links: 
-  Train Dataset: https://o365coloradoedu-my.sharepoint.com/:u:/g/personal/mada1380_colorado_edu/EehbUqe9zWVEkpivZRRAF3UBoQ_2CcnAMm4GmlNybbcPmA?e=UlKKYP
-  
-  Dev Dataset: https://o365coloradoedu-my.sharepoint.com/:u:/g/personal/mada1380_colorado_edu/EbtdhiSyK0BDp4SbjunmwzQB5GEX-6jEW_qisGXjX2m5uQ?e=iQ2aCT
+  1) Train Dataset: https://o365coloradoedu-my.sharepoint.com/:u:/g/personal/mada1380_colorado_edu/EehbUqe9zWVEkpivZRRAF3UBoQ_2CcnAMm4GmlNybbcPmA?e=UlKKYP
+  2) Dev Dataset: https://o365coloradoedu-my.sharepoint.com/:u:/g/personal/mada1380_colorado_edu/EbtdhiSyK0BDp4SbjunmwzQB5GEX-6jEW_qisGXjX2m5uQ?e=iQ2aCT
